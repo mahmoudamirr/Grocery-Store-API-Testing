@@ -1,0 +1,114 @@
+[DEBUG] - [03-12-2025 01:21:24] [main] [org.testng.TestNG] - suiteXmlPath: "E:\ITI_Mahmoud\Automation\LastEdit\Grocery_Store_API_Automation\testng.xml"
+[INFO] - [03-12-2025 01:21:26] [main] [CustomListener.TestNGListeners] - Test Execution started
+[INFO] - [03-12-2025 01:21:26] [main] [Utiles.FileUtils] - File deleted: E:\ITI_Mahmoud\Automation\LastEdit\Grocery_Store_API_Automation\test-output\Logs\logs.log
+[INFO] - [03-12-2025 01:21:26] [main] [CustomListener.TestNGListeners] - Directories cleaned
+[INFO] - [03-12-2025 01:21:26] [main] [Utiles.FileUtils] - Directory created: src/test/resources/downloads/
+[INFO] - [03-12-2025 01:21:26] [main] [CustomListener.TestNGListeners] - Directories created
+[INFO] - [03-12-2025 01:21:26] [main] [CustomListener.TestNGListeners] - Properties loaded
+[INFO] - [03-12-2025 01:21:27] [main] [Utiles.report.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [03-12-2025 01:21:29] [main] [Utiles.report.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [03-12-2025 01:21:29] [main] [CustomListener.TestNGListeners] - Allure environment set
+[INFO] - [03-12-2025 01:21:30] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  E:\ITI_Mahmoud\Automation\LastEdit\Grocery_Store_API_Automation\testng.xml
+
+[INFO] - [03-12-2025 01:21:34] [main] [CustomListener.TestNGListeners] - Test Case Check_Status started
+[INFO] - [03-12-2025 01:21:42] [main] [CustomListener.TestNGListeners] - Test Case Check_Status ended
+[INFO] - [03-12-2025 01:21:42] [main] [CustomListener.TestNGListeners] - Test Case Check_Status passed
+[INFO] - [03-12-2025 01:21:42] [main] [CustomListener.TestNGListeners] - Test Case Conflict_Register_Api_Client started
+[INFO] - [03-12-2025 01:21:44] [main] [CustomListener.TestNGListeners] - Test Case Conflict_Register_Api_Client ended
+[INFO] - [03-12-2025 01:21:44] [main] [CustomListener.TestNGListeners] - Test Case Conflict_Register_Api_Client passed
+[INFO] - [03-12-2025 01:21:44] [main] [CustomListener.TestNGListeners] - Test Case Invalid_Parameters_Register_Api_Client started
+[INFO] - [03-12-2025 01:21:44] [main] [CustomListener.TestNGListeners] - Test Case Invalid_Parameters_Register_Api_Client ended
+[INFO] - [03-12-2025 01:21:44] [main] [CustomListener.TestNGListeners] - Test Case Invalid_Parameters_Register_Api_Client passed
+[INFO] - [03-12-2025 01:21:44] [main] [CustomListener.TestNGListeners] - Test Case Missing_Parameters_Register_Api_Client started
+[INFO] - [03-12-2025 01:21:45] [main] [CustomListener.TestNGListeners] - Test Case Missing_Parameters_Register_Api_Client ended
+[INFO] - [03-12-2025 01:21:45] [main] [CustomListener.TestNGListeners] - Test Case Missing_Parameters_Register_Api_Client passed
+[INFO] - [03-12-2025 01:21:45] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Register_Api_Client started
+[INFO] - [03-12-2025 01:21:45] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Register_Api_Client ended
+[INFO] - [03-12-2025 01:21:45] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Register_Api_Client passed
+[INFO] - [03-12-2025 01:21:45] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Get_All_Products started
+[INFO] - [03-12-2025 01:21:46] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Get_All_Products ended
+[INFO] - [03-12-2025 01:21:46] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Get_All_Products passed
+[INFO] - [03-12-2025 01:21:46] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Get_Specific_Products started
+[INFO] - [03-12-2025 01:21:46] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Get_Specific_Products ended
+[INFO] - [03-12-2025 01:21:48] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Get_Specific_Products passed
+[INFO] - [03-12-2025 01:21:48] [main] [CustomListener.TestNGListeners] - Test Case Successfully_get_products_inStock started
+[INFO] - [03-12-2025 01:21:49] [main] [CustomListener.TestNGListeners] - Test Case Successfully_get_products_inStock ended
+[INFO] - [03-12-2025 01:21:49] [main] [CustomListener.TestNGListeners] - Test Case Successfully_get_products_inStock failed
+[INFO] - [03-12-2025 01:21:49] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_invalid_productID started
+[INFO] - [03-12-2025 01:21:49] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_invalid_productID ended
+[INFO] - [03-12-2025 01:21:49] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_invalid_productID passed
+[INFO] - [03-12-2025 01:21:49] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Create_NewCart started
+[INFO] - [03-12-2025 01:21:50] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Create_NewCart ended
+[INFO] - [03-12-2025 01:21:50] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Create_NewCart passed
+[INFO] - [03-12-2025 01:21:50] [main] [CustomListener.TestNGListeners] - Test Case Successfully_add_another_item_ToCart started
+[INFO] - [03-12-2025 01:21:50] [main] [CustomListener.TestNGListeners] - Test Case Successfully_add_another_item_ToCart ended
+[INFO] - [03-12-2025 01:21:51] [main] [CustomListener.TestNGListeners] - Test Case Successfully_add_another_item_ToCart passed
+[INFO] - [03-12-2025 01:21:51] [main] [CustomListener.TestNGListeners] - Test Case Successfully_add_items_ToCart started
+[INFO] - [03-12-2025 01:21:51] [main] [CustomListener.TestNGListeners] - Test Case Successfully_add_items_ToCart ended
+[INFO] - [03-12-2025 01:21:51] [main] [CustomListener.TestNGListeners] - Test Case Successfully_add_items_ToCart passed
+[INFO] - [03-12-2025 01:21:51] [main] [CustomListener.TestNGListeners] - Test Case Successfully_get_the_CreatedCart started
+[INFO] - [03-12-2025 01:21:51] [main] [CustomListener.TestNGListeners] - Test Case Successfully_get_the_CreatedCart ended
+[INFO] - [03-12-2025 01:21:51] [main] [CustomListener.TestNGListeners] - Test Case Successfully_get_the_CreatedCart passed
+[INFO] - [03-12-2025 01:21:51] [main] [CustomListener.TestNGListeners] - Test Case Successfully_modify_cart started
+[INFO] - [03-12-2025 01:21:52] [main] [CustomListener.TestNGListeners] - Test Case Successfully_modify_cart ended
+[INFO] - [03-12-2025 01:21:52] [main] [CustomListener.TestNGListeners] - Test Case Successfully_modify_cart passed
+[INFO] - [03-12-2025 01:21:52] [main] [CustomListener.TestNGListeners] - Test Case Successfully_replace_item_inCart started
+[INFO] - [03-12-2025 01:21:52] [main] [CustomListener.TestNGListeners] - Test Case Successfully_replace_item_inCart ended
+[INFO] - [03-12-2025 01:21:52] [main] [CustomListener.TestNGListeners] - Test Case Successfully_replace_item_inCart passed
+[INFO] - [03-12-2025 01:21:52] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_invalid_CartID started
+[INFO] - [03-12-2025 01:21:52] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_invalid_CartID ended
+[INFO] - [03-12-2025 01:21:52] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_invalid_CartID passed
+[INFO] - [03-12-2025 01:21:52] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_modify_cart_with_invalid_Quantity started
+[INFO] - [03-12-2025 01:21:53] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_modify_cart_with_invalid_Quantity ended
+[INFO] - [03-12-2025 01:21:53] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_modify_cart_with_invalid_Quantity passed
+[INFO] - [03-12-2025 01:21:53] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_modify_cart_with_invalid_endpoint started
+[INFO] - [03-12-2025 01:21:54] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_modify_cart_with_invalid_endpoint ended
+[INFO] - [03-12-2025 01:21:54] [main] [CustomListener.TestNGListeners] - Test Case verify_error_on_modify_cart_with_invalid_endpoint passed
+[INFO] - [03-12-2025 01:21:54] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_add_invalid_items started
+[INFO] - [03-12-2025 01:21:54] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_add_invalid_items ended
+[INFO] - [03-12-2025 01:21:54] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_add_invalid_items passed
+[INFO] - [03-12-2025 01:21:54] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_delete_item_with_invalidEndpoint started
+[INFO] - [03-12-2025 01:21:55] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_delete_item_with_invalidEndpoint ended
+[INFO] - [03-12-2025 01:21:55] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_delete_item_with_invalidEndpoint passed
+[INFO] - [03-12-2025 01:21:55] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_update_cart_with_invalidEndpoint started
+[INFO] - [03-12-2025 01:21:55] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_update_cart_with_invalidEndpoint ended
+[INFO] - [03-12-2025 01:21:55] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_update_cart_with_invalidEndpoint passed
+[INFO] - [03-12-2025 01:21:55] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_update_cart_with_invalidParameters started
+[INFO] - [03-12-2025 01:21:55] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_update_cart_with_invalidParameters ended
+[INFO] - [03-12-2025 01:21:55] [main] [CustomListener.TestNGListeners] - Test Case verify_error_when_update_cart_with_invalidParameters passed
+[INFO] - [03-12-2025 01:21:55] [main] [CustomListener.TestNGListeners] - Test Case Successfully_delete_item_inCart started
+[INFO] - [03-12-2025 01:21:56] [main] [CustomListener.TestNGListeners] - Test Case Successfully_delete_item_inCart ended
+[INFO] - [03-12-2025 01:21:56] [main] [CustomListener.TestNGListeners] - Test Case Successfully_delete_item_inCart passed
+[INFO] - [03-12-2025 01:21:56] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Create_new_Order started
+[INFO] - [03-12-2025 01:21:56] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Create_new_Order ended
+[INFO] - [03-12-2025 01:21:56] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Create_new_Order passed
+[INFO] - [03-12-2025 01:21:56] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Update_an_order started
+[INFO] - [03-12-2025 01:21:56] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Update_an_order ended
+[INFO] - [03-12-2025 01:21:57] [main] [CustomListener.TestNGListeners] - Test Case Successfully_Update_an_order passed
+[INFO] - [03-12-2025 01:21:57] [main] [CustomListener.TestNGListeners] - Test Case Successfully_get_all_orders started
+[INFO] - [03-12-2025 01:21:57] [main] [CustomListener.TestNGListeners] - Test Case Successfully_get_all_orders ended
+[INFO] - [03-12-2025 01:21:57] [main] [CustomListener.TestNGListeners] - Test Case Successfully_get_all_orders passed
+[INFO] - [03-12-2025 01:21:57] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_Error_when_try_to_update_Order_with_invalid_id started
+[INFO] - [03-12-2025 01:21:58] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_Error_when_try_to_update_Order_with_invalid_id ended
+[INFO] - [03-12-2025 01:21:58] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_Error_when_try_to_update_Order_with_invalid_id passed
+[INFO] - [03-12-2025 01:21:58] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_When_Update_an_order_With_invalid_parameters started
+[INFO] - [03-12-2025 01:21:58] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_When_Update_an_order_With_invalid_parameters ended
+[INFO] - [03-12-2025 01:21:58] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_When_Update_an_order_With_invalid_parameters passed
+[INFO] - [03-12-2025 01:21:58] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_when_Try_to_Delete_Order_and_Unauthorized started
+[INFO] - [03-12-2025 01:21:58] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_when_Try_to_Delete_Order_and_Unauthorized ended
+[INFO] - [03-12-2025 01:21:58] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_when_Try_to_Delete_Order_and_Unauthorized passed
+[INFO] - [03-12-2025 01:21:58] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_when_Unauthorized_and_try_to_Update_an_order started
+[INFO] - [03-12-2025 01:21:59] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_when_Unauthorized_and_try_to_Update_an_order ended
+[INFO] - [03-12-2025 01:21:59] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_when_Unauthorized_and_try_to_Update_an_order passed
+[INFO] - [03-12-2025 01:21:59] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_when_try_to_Delete_an_Order_with_invalid_Orderid started
+[INFO] - [03-12-2025 01:21:59] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_when_try_to_Delete_an_Order_with_invalid_Orderid ended
+[INFO] - [03-12-2025 01:21:59] [main] [CustomListener.TestNGListeners] - Test Case Verify_Get_error_when_try_to_Delete_an_Order_with_invalid_Orderid passed
+[INFO] - [03-12-2025 01:21:59] [main] [CustomListener.TestNGListeners] - Test Case Verify_error_When_Create_order_on_Unauthorized started
+[INFO] - [03-12-2025 01:22:00] [main] [CustomListener.TestNGListeners] - Test Case Verify_error_When_Create_order_on_Unauthorized ended
+[INFO] - [03-12-2025 01:22:00] [main] [CustomListener.TestNGListeners] - Test Case Verify_error_When_Create_order_on_Unauthorized passed
+[INFO] - [03-12-2025 01:22:00] [main] [CustomListener.TestNGListeners] - Test Case Verify_error_When_Create_order_with_invalid_CartId started
+[INFO] - [03-12-2025 01:22:00] [main] [CustomListener.TestNGListeners] - Test Case Verify_error_When_Create_order_with_invalid_CartId ended
+[INFO] - [03-12-2025 01:22:00] [main] [CustomListener.TestNGListeners] - Test Case Verify_error_When_Create_order_with_invalid_CartId passed
+[INFO] - [03-12-2025 01:22:00] [main] [CustomListener.TestNGListeners] - Test Case Verify_get_error_when_try_to_get_order_and_Unauthorized started
+[INFO] - [03-12-2025 01:22:01] [main] [CustomListener.TestNGListeners] - Test Case Verify_get_error_when_try_to_get_order_and_Unauthorized ended

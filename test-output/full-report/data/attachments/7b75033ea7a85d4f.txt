@@ -1,0 +1,15 @@
+[DEBUG] - [03-12-2025 01:21:24] [main] [org.testng.TestNG] - suiteXmlPath: "E:\ITI_Mahmoud\Automation\LastEdit\Grocery_Store_API_Automation\testng.xml"
+[INFO] - [03-12-2025 01:21:26] [main] [CustomListener.TestNGListeners] - Test Execution started
+[INFO] - [03-12-2025 01:21:26] [main] [Utiles.FileUtils] - File deleted: E:\ITI_Mahmoud\Automation\LastEdit\Grocery_Store_API_Automation\test-output\Logs\logs.log
+[INFO] - [03-12-2025 01:21:26] [main] [CustomListener.TestNGListeners] - Directories cleaned
+[INFO] - [03-12-2025 01:21:26] [main] [Utiles.FileUtils] - Directory created: src/test/resources/downloads/
+[INFO] - [03-12-2025 01:21:26] [main] [CustomListener.TestNGListeners] - Directories created
+[INFO] - [03-12-2025 01:21:26] [main] [CustomListener.TestNGListeners] - Properties loaded
+[INFO] - [03-12-2025 01:21:27] [main] [Utiles.report.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [03-12-2025 01:21:29] [main] [Utiles.report.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [03-12-2025 01:21:29] [main] [CustomListener.TestNGListeners] - Allure environment set
+[INFO] - [03-12-2025 01:21:30] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  E:\ITI_Mahmoud\Automation\LastEdit\Grocery_Store_API_Automation\testng.xml
+
+[INFO] - [03-12-2025 01:21:34] [main] [CustomListener.TestNGListeners] - Test Case Check_Status started
+[INFO] - [03-12-2025 01:21:42] [main] [CustomListener.TestNGListeners] - Test Case Check_Status ended
