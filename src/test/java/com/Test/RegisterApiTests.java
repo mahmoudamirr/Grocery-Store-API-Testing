@@ -25,7 +25,7 @@ public class RegisterApiTests extends baseTest {
 
         HashMap<String,String> body = new HashMap();
         body.put("clientName","Mahmoud Amir");
-        body.put("clientEmail","mahmoudamiwrrrrrrrcmnmnccnryaabrrrrrrrhhbtrrrrrrrrr@example.com");
+        body.put("clientEmail","mahmoudamir@example.com");
 
 
         Allure.step("Send POST request to register new client");
